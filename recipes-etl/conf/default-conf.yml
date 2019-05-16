@@ -1,0 +1,41 @@
+# Configuration File
+
+#Note: Spark related configurations should be set in script file in conf
+
+# Application related configuration elements
+app:
+  # verbose output (be aware of large output dump)
+  verbose: False
+  # Handling logging rejected records
+  log.reject: True
+
+
+#S3 File Name
+s3_properties:
+  S3:
+    file: 'recipes.json'
+    bucket: 'dwh-test-resources'
+    region : 'eu-west-1'
+    #add access id and access key
+    acces_id: ''
+    access_key: ''
+
+
+# Impala Table
+
+impala:
+  tablename: 'ingridients'
+
+
+email:
+  id: 'arunkumar.bonam@gmail.com'
+  password: 'masked'
+
+
+# Impala connection details
+impala_properties:
+   impala:
+    host: '192.168.10.555'
+    port: '21050'
+    dbname: 'test'
+

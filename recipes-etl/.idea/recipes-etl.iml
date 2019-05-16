@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/bin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/conf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/etl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/etl/job" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/bin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/include" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/src/etl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/src/etl/job" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/src/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/etl/util" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="Twisted Trial" />
+    <option name="PROJECT_TEST_RUNNER" value="Twisted Trial" />
+  </component>
+</module>
