@@ -1,4 +1,4 @@
-# Hello Fresh DataEngineer Test Repository
+# A sample spark etl to transform a json file and apply few transformations
 #arun-bonam
 
 This repository contains 
